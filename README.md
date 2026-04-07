@@ -38,5 +38,5 @@ ros2 run mypkg nodo5
 
 Para graficar la comunicacion de todos los nodos con sus correspondientes topicos: rqt_graph
 
-NOTA: Saludos inge, el aporte de trabajo para este examen es desbalanceado por lo que pido que se tome en cuenta ese factor. Gracias
+
 
